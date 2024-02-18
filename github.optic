@@ -1,0 +1,8 @@
+/*
+    Github search optic.
+*/
+Rule {
+    Matches {
+        Domain("|github.com|")
+    }
+};
