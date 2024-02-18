@@ -3,6 +3,6 @@
 */
 Rule {
     Matches {
-        Domain("|github.com|")
+        Url("github.com/*")
     }
 };
